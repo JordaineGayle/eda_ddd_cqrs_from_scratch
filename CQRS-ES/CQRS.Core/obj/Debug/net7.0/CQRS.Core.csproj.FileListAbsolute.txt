@@ -1,0 +1,12 @@
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.deps.json
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.dll
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.pdb
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfo.cs
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.dll
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\refint\CQRS.Core.dll
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.pdb
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\CQRS-ES\CQRS.Core\obj\Debug\net7.0\ref\CQRS.Core.dll
