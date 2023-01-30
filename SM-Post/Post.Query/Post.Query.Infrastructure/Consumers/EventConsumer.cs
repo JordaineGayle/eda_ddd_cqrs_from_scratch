@@ -45,13 +45,13 @@ namespace Post.Query.Infrastructure.Consumers
 
                 var handlerMethod = _eventHandler.GetType().GetMethod("On", new Type[] { @event.GetType() });
 
-                if(handlerMethod == null)
+                if(handlerMethod != null)
                 {
-                    throw new NotImplementedException($"{nameof(handlerMethod)} is not yet implemented.");
+                    handlerMethod.Invoke(_eventHandler, new object[] { @event });
+                    consumer.Commit(consumerResult);
                 }
 
-                handlerMethod.Invoke(_eventHandler, new object[] { @event });
-                consumer.Commit(consumerResult);
+                
             }
         }
     }

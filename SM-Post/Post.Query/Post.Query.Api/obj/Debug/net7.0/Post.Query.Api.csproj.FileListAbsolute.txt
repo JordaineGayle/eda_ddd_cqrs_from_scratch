@@ -1,4 +1,5 @@
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\appsettings.Development.PstgresSQL.json
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\appsettings.json
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Post.Query.Api.exe
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Post.Query.Api.deps.json
@@ -35,6 +36,8 @@ C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Q
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\MongoDB.Driver.dll
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\MongoDB.Driver.Core.dll
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\SharpCompress.dll
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Snappier.dll
 C:\Users\jorda\OneDrive\Documents\Learning\Microservices\projects\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
